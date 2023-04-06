@@ -1,5 +1,7 @@
- Here is Site Link [![Screenshot (38)](https://user-images.githubusercontent.com/88175165/230455453-ce77017d-1f9a-4f08-8698-eab6cac72bf7.png)![Screenshot (39)](https://user-images.githubusercontent.com/88175165/230455467-7be00848-8d21-4ae9-96a0-6064d19341c0.png)
-![Screenshot (40)](https://user-images.githubusercontent.com/88175165/230455469-9b398431-4f4f-4f1a-9d96-fb58b3bd3aad.png)
-![Screenshot (41)](https://user-images.githubusercontent.com/88175165/230455475-d39dedb7-5099-4688-b9a3-81dd0535a7c7.png)
-]
+Here is Site Link [https://gym-freak-g.netlify.app/]
 
+
+![Screenshot (38)](https://user-images.githubusercontent.com/88175165/230455829-18ebb216-8937-460d-a1c0-8f748e50a3fb.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/88175165/230455842-edda9c89-f5f3-4d14-9ac6-59f914bfb149.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/88175165/230455846-737d9ea4-3d26-4860-8d31-2aaf9aee400e.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/88175165/230455850-6c9d62d0-d4d2-4eca-8832-7eb4e57ab575.png)
